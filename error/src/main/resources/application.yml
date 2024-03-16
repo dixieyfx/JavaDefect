@@ -1,0 +1,5 @@
+server:
+  port: 8090
+  tomcat:
+    threads:
+      max: 1
